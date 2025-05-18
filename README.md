@@ -11,9 +11,7 @@ This is my personal portfolio website. It showcases my projects, skills, and con
 
 ## 🖼 Screenshot
 
-![Screenshot](images/screenshot.png)
-
-> 📌 Make sure you add your screenshot image inside a folder called `images` (or update the path if you name it differently).
+![Screenshot](sara-portfolio.png)
 
 ## 🚀 Live Demo
 
@@ -23,15 +21,5 @@ This is my personal portfolio website. It showcases my projects, skills, and con
 
 - HTML
 - CSS
-- JavaScript (or whatever tools you used)
+- Typescript
 
-## 📁 How to Use
-
-1. Clone the repo  
-   `git clone https://github.com/YourUsername/personal-portfolio.git`
-2. Open `index.html` in your browser
-
-## 📬 Contact
-
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
